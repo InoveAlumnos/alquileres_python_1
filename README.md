@@ -8,7 +8,7 @@ Programa que se utiliza para buscar alquileres en mercadolibre y generar un arch
 
 # Entrada del sistema
 El programa utilizará una librería de Inove que permite buscar en Mercado Libre los alquileres de departamentos disponibles en una determinada zona. Dicha librería generará un archivo “csv” para que el alumno analice.\
-Se debe ingresar al programa los rangos de precio y ambientes (y cualquier otro dato de interés del alumno) para que el programa analice el “csv” generado.
+Se debe ingresar a su programa los rangos de precio y ambientes (y cualquier otro dato de interés del alumno) para que el programa analice el “csv” generado.
 
 __Librería para generar el reporte de alquileres de ML__\
 meli.py
