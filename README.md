@@ -14,7 +14,7 @@ __Librería para generar el reporte de alquileres de ML__\
 Para poder descargar el archivo "csv" de la zona o ciudad deseada deben ingresar al siguiente link:\
 Web: [http://inove.pythonanywhere.com/alquileres/buscar?ubicacion=Mendoza](http://inove.pythonanywhere.com/alquileres/buscar?ubicacion=Mendoza)
 
-En la ubicación del link deben poder donde desean que la librería realice la búsqueda y genere el "csv". Una vez que ingresen al link puede demorar varios segundos entre que el sistema realiza toda la búsqueda y les genera el archivo "csv" para descargar, por favor aguarde.
+Deben editar la ubicación del link y colocar en ubicación donde desean que la librería realice la búsqueda y genere el "csv". Una vez que ingresen al link puede demorar varios segundos entre que el sistema realiza toda la búsqueda y les genera el archivo "csv" para descargar, por favor aguarde.
 
 # Salida del sistema
 Del archivo “csv” generado se solicita analizar los siguientes resultados (y cualquier otro que desee agregar el alumno):
