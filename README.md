@@ -11,7 +11,10 @@ El programa utilizará una librería de Inove que permite buscar en Mercado Libr
 Se debe ingresar a su programa los rangos de precio y ambientes (y cualquier otro dato de interés del alumno) para que el programa analice el “csv” generado.
 
 __Librería para generar el reporte de alquileres de ML__\
-meli.py
+Para poder descargar el archivo "csv" de la zona o ciudad deseada deben ingresar al siguiente link:
+Web: [buscar](http://inove.pythonanywhere.com/alquileres/buscar?ubicacion=Mendoza)
+
+En la ubicación del link deben poder donde desean que la librería realice la búsqueda y genere el "csv". Una vez que ingresen al link puede demorar varios segundos entre que el sistema realiza toda la búsqueda y les genera el archivo "csv" para descargar, por favor aguarde.
 
 # Salida del sistema
 Del archivo “csv” generado se solicita analizar los siguientes resultados (y cualquier otro que desee agregar el alumno):
